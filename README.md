@@ -1,2 +1,2 @@
-# Dynoword
+# Dynword
 Wordle for Dynamo/Revit
