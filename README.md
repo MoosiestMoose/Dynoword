@@ -10,4 +10,8 @@ Wordle for Dynamo/Revit
 
 4 - Press run again for each turn. 
 
-5 - When game is over press run again and select, "New game". 
+5 - When game is over press run again and select, "New game".
+
+Packages needed:
+Clockwork v.1.0.2
+archilab v.2021.25.2621
