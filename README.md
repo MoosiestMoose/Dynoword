@@ -1,2 +1,13 @@
 # Dynword
 Wordle for Dynamo/Revit
+~~ Instructions~~
+
+1 - Open a BLANK Revit model.
+
+2 - Open Dynamo Player
+
+3 - Press run to start game. Zoom all to find the drawn grid. 
+
+4 - Press run again for each turn. 
+
+5 - When game is over press run again and select, "New game". 
